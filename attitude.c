@@ -39,8 +39,8 @@
  *  Humphrey Hu         2012-02-16      Updated interface to use objects
  */
 
-#include "sys_clock.h"
-#include "telemetry.h"
+//#include "sys_clock.h"
+//#include "telemetry.h"
 #include "attitude.h"
 #include "quat.h"
 #include "xl.h"
